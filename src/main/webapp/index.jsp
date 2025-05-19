@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>ShopEasy-3</h1>
+            <h1>ShopEasy-4</h1>
         </div>
         <nav>
             <ul>
